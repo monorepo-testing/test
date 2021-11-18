@@ -1,0 +1,8 @@
+{
+    "name": "netflex/test",
+    "autoload": {
+        "psr-4": {
+            "Netflex\\Test\\": ""
+        }
+    }
+}
